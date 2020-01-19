@@ -1,0 +1,8 @@
+{
+  "appId": "perfiltics.com",
+  "appName": "perfiltics",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

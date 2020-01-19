@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">perfiltics</string>
+    <string name="title_activity_main">perfiltics</string>
+    <string name="package_name">perfiltics.com</string>
+    <string name="custom_url_scheme">perfiltics.com</string>
+</resources>
